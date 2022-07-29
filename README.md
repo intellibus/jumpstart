@@ -31,7 +31,7 @@
 ## Install 🛠
 
 ```sh
-npm install -g jumpstart
+npm install -g @intellibus/jumpstart
 ```
 
 ## Usage 🔭

@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "jumpstart",
+  "name": "@intellibus/jumpstart",
   "version": "1.0.0",
   "description": "Instantly Start Writing World-Class Scripts",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",

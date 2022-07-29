@@ -23,10 +23,9 @@
 
 ## Features ✨
 
-- Get Saved Tabs `Planned`
-- Update Saved Tabs `Planned`
-- Create New Saved Tabs `Planned`
-- Modify Projects (Tab Groups) `Planned`
+- Create a New Project for Scripting `Planned`
+- Easily Add Unit Tests & Error Handling `Planned`
+- Linting, Formatting, & Committing Best Practices Out-of-the-Box `Planned`
 - Typescript Support `Planned`
 
 ## Install 🛠

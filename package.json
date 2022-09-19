@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@intellibus/jumpstart",
-  "version": "1.0.72",
+  "version": "1.0.73",
   "description": "Instantly Start Writing World-Class Scripts",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
